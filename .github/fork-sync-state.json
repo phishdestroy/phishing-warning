@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-04T00:11:57.653169+00:00",
+  "checked_at": "2026-11-04T15:46:06.155183+00:00",
   "upstream": "MetaMask/phishing-warning",
   "upstream_branch": "main",
-  "upstream_commit": "c937449994edc9372476c981f193a8f54d1bb224",
+  "upstream_commit": "fbf43eebd3ba57f0fd34f04234c19a79f8048bd1",
   "version": 1,
   "workflow_policy": "preserve fork workflows; never import upstream workflows"
 }
